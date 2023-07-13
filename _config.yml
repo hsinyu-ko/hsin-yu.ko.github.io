@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hsin-Yu Ko"
+title                    : "Ko Research Group"
 title_separator          : "-"
-name                     : &name "Hsin-Yu Ko"
+name                     : &name "Ko Research Group"
 description              : &description "personal description"
 url                      : https://ko-group.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : #&twitter
+  username               : @HYKo_Group
 facebook:
   username               :
   app_id                 :
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hsin-Yu Ko, Ph.D."
+  name             : "Ko Research Group"
   avatar           : "https://github.com/ko-group.png"
   bio              : "First-Principles Discovery/Prediction of Complex Condensed-Phase Reactions"
   location         :
-  employer         : "Cornell University"
+  employer         : "University of North Texas"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XIkT2kwAAAAJ&hl=en"
   email            : "hsin-yu.ko@cornell.edu"
